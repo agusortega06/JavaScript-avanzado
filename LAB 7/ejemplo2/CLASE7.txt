@@ -1,0 +1,3 @@
+		PROMESAS:
+SINTAXIS
+new Promise( /* ejecutor */ function(resolver, rechazar) { ... } );

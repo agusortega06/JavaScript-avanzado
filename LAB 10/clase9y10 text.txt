@@ -1,0 +1,12 @@
+scoup y herencia. *****BUSCAR*****
+
+variable global: var x= 3;
+DOM: cuando hablo del DOM me refiero del HTML.
+
+************PATRONES DE DISEÑO************
+hacer ejercico classroom*
+get y set
+singleton
+prototipo esta mas relacionado a herencia
+**********************************************
+

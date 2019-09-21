@@ -1,0 +1,40 @@
+JAVASCRIPT= Profesor: Christian
+email: juyagu@gmail.com
+
+JS es el único lenguaje frontend para manipular datos.
+*Recargar: control + f5
+La ultima actualizacion de JS es ECMA6
+- LAS TRES FORMAS DE DECLARAR:
+   var:
+   let: NO SE PUEDE REDEFINIR //ECMA6
+  const:NO SE PUEDE
+
+! not a
+if(!number) " si esto no es un numero"
+++ incrementar de a uno
+
+h2 no contiene un innerHTML
+indices son los elementos de la seleccion
+toda coleccion es un array
+__________________________________
+
+FLUJO DE DATOS:
+- Eventos: Se llama evento a un suceso que tiene 
+lugar en el sistema cuando un usuario ejecuta alguna acción.
+Los eventos se asocian a elementos HTML y 
+las acciones que se ejecutan se programan en JavaScript.
+selectedIndex: el usuario va a capturar la opcion 
+los eventos envian los cogidos a las maquinas.
+- Eventos combo de tipo select: 
+- Expresiones regulares:
+________________________________
+para capturar la opcion del usuario se usa change
+evento change: se produce cuando se produce el value 
+_____________________________
+ Para poner estilos html:
+https://getbootstrap.com
+- indices son los elementos de la seleccion
+- toda coleccion es un array
+- value: agarra todo el objeto option
+- el combo select agarra desde una seleccion
+
