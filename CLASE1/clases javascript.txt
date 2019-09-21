@@ -1,0 +1,15 @@
+JAVASCRIPT= Profesor: Christian
+email: juyagu@gmail.com
+
+JS es el único lenguaje frontend para manipular datos.
+*Recargar: control + f5
+La ultima actualizacion de JS es ECMA6
+- LAS TRES FORMAS DE DECLARAR:
+   var:
+   let: NO SE PUEDE REDEFINIR //ECMA6
+  const:NO SE PUEDE
+
+! not a
+if(!number) " si esto no es un numero"
+++ incrementar de a uno
+

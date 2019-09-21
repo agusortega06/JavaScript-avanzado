@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta  name="viewport" content="width= device-width,">
+	<meta  http-equiv="X-UA-Compatible" content="ie=edg">
+	<title></title>
+</head>
+<body>
+
+<h1>Hola mundo!</h1>
+<script>
+	
+/* var
+   let //ECMA6
+  const: SON LAS TRES FORMAS DE DECLARAR*/
+let a= 12;
+if(a> 12){
+	
+	consolo.log(12);
+} else if (a < 12){
+	console.log(11);
+} else{
+	console.log(10);
+}
+/*Operador ternario*/
+let b= null;
+console.log(b ? "El valor de b es verdadero":2);
+
+/* Conversion de valores */
+var var1= true;
+console.log(var1);
+var var1= 123;
+console.log(var1);
+var1="Jose";
+console.log(var1)
+console.info("5" - 1);
+
+console.info("-------------");
+console.info("5" + 1);
+
+let variable1=3;
+let variable2="3";
+
+console.info(typeof variable1);
+console.info(typeof variable2);
+if(Number.isNaN(variable2)) {
+	console.error("No es un numero");
+}
+if(variable1 == variable2){
+	console.log("SON IGUALES");
+} else{
+	console.error("No son iguales");
+}
+
+console.log(null || "Usuario");
+console.log("Hola" || "Usuario");
+
+/* Asignaciones de variables*/
+
+let diez= 10;
+console.log(diez * diez);
+
+let deudaSergio= 140;
+deudaSergio= deudaSergio - 35;
+console.log(deudaSergio);
+
+let nombre = " Maria";
+const saludo = " Hola";
+console.log(saludo + nombre);
+nombre= " Pedro";
+console.log(saludo + nombre);
+
+let numero = Number(prompt("Ingrese un numero: "));
+if(!Number.isNaN(numero)){
+console.info("El cuadrado del numero ingresado es: " + (numero + numero));
+} else{
+console.info("Che, te pedi que ingresaras un numero");
+}
+
+/* Repeticiones*/
+let numeroLoop= 0;
+while(numeroLoop< 12){
+console.log(numeroLoop);
+numeroLoop+= 2;
+}
+
+
+for(let numeroFor = 0; numeroFor< 12; numeroFor+=2){
+	console.log(numeroFor);
+}
+
+/*romper bucles*/
+for(let actual= 20; ; actual++){
+	if(actual % 7 == 0){
+		console.log(actual);
+		break; // rompo el bucle//
+	}
+}
+
+</script>
+
+
+</body>
+
+</html>
